@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="20" viewBox="0 0 17 20">
+  <g id="Icon_Bag" data-name="Icon Bag" transform="translate(-21 -136.5)">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(21 138)" fill="none" stroke="#a7a5ad" stroke-width="2">
+      <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+      <circle cx="8.5" cy="8.5" r="7.5" fill="none"/>
+    </g>
+    <line id="Linha_2" data-name="Linha 2" y1="4" transform="translate(34.5 136.5)" fill="none" stroke="#a7a5ad" stroke-width="2"/>
+    <line id="Linha_4" data-name="Linha 4" y1="4" transform="translate(34.5 152.5)" fill="none" stroke="#a7a5ad" stroke-width="2"/>
+    <line id="Linha_3" data-name="Linha 3" y1="4" transform="translate(24.5 136.5)" fill="none" stroke="#a7a5ad" stroke-width="2"/>
+    <line id="Linha_6" data-name="Linha 6" y1="2" transform="translate(29.5 140.5)" fill="none" stroke="#a7a5ad" stroke-width="1"/>
+    <path id="Caminho_23" data-name="Caminho 23" d="M0,0" transform="translate(31.5 146.5) rotate(180)" fill="none" stroke="#a7a5ad" stroke-width="1"/>
+    <line id="Linha_7" data-name="Linha 7" y1="2" transform="translate(29.5 150.5)" fill="none" stroke="#a7a5ad" stroke-width="1"/>
+    <line id="Linha_5" data-name="Linha 5" y1="4" transform="translate(24.5 152.5)" fill="none" stroke="#a7a5ad" stroke-width="2"/>
+    <line id="Linha_8" data-name="Linha 8" x1="2" transform="translate(33.5 146.5)" fill="none" stroke="#a7a5ad" stroke-width="1"/>
+    <line id="Linha_9" data-name="Linha 9" x1="2" transform="translate(23.5 146.5)" fill="none" stroke="#a7a5ad" stroke-width="1"/>
+    <g id="Caminho_24" data-name="Caminho 24" transform="matrix(0.788, 0.616, -0.616, 0.788, 28.483, 141.789)" fill="none">
+      <path d="M-1.2,2.962l6.625.382-.05.825L-1.2,2.962Z" stroke="none"/>
+      <path d="M -1.195754528045654 2.961762428283691 L 5.429325103759766 3.343322277069092 L 5.379635334014893 4.168502330780029 L -1.195754528045654 2.961762428283691 Z" stroke="none" fill="#a7a5ad"/>
+    </g>
+    <g id="Caminho_25" data-name="Caminho 25" transform="matrix(-0.766, 0.643, -0.643, -0.766, 33.869, 148.272)" fill="none">
+      <path d="M-1.2,2.962l5.349.382-.04.825L-1.2,2.962Z" stroke="none"/>
+      <path d="M -1.195753574371338 2.961762428283691 L 4.153706550598145 3.343322277069092 L 4.11358642578125 4.168502330780029 L -1.195753574371338 2.961762428283691 Z" stroke="none" fill="#a7a5ad"/>
+    </g>
+  </g>
+</svg>
